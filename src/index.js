@@ -1,8 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import App from './app/App';
+import './assets/css/mycustom.css';
 import reportWebVitals from './reportWebVitals';
+
+// External CSS
+import './assets/css/style.css'
+import './assets/css/responsive.css'
+import './assets/css/owl.carousel.min.css'
+import './assets/css/bootstrap.min.css'
 
 ReactDOM.render(
   <React.StrictMode>
