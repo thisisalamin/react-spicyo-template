@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Website Demo
+[Click here](https://react-spicyo.netlify.app/) to see the demo.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
