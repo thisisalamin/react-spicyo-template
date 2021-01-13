@@ -9,10 +9,10 @@ const AppRouter = () => {
     return (
         <Router>
             <Home path="/" />
-            <AboutPage path="/about" />
-            <BlogPage path="/blog" />
-            <RecipePage path="/recipe" />
-            <ContactPage path="/contact" />
+            <AboutPage path="about" />
+            <BlogPage path="blog" />
+            <RecipePage path="recipe" />
+            <ContactPage path="contact" />
         </Router>
     )
 }

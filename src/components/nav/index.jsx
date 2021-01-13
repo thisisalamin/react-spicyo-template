@@ -19,16 +19,16 @@ const Nav = () => {
               <a href="/">Home</a>
             </li>
             <li>
-              <a href="/about">About</a>
+              <a href="about">About</a>
             </li>
             <li>
-              <a href="/recipe">Recipe</a>
+              <a href="recipe">Recipe</a>
             </li>
             <li>
-              <a href="/blog">Blog</a>
+              <a href="blog">Blog</a>
             </li>
             <li>
-              <a href="/contact">Contact Us</a>
+              <a href="contact">Contact Us</a>
             </li>
           </ul>
         </nav>
@@ -49,16 +49,16 @@ const Nav = () => {
                 <div className="full">
                   <div className="right_header_info">
                     <ul>
-                      <li className="dinone1">
-                        Contact Us :
+                      <li className="dinone">
+                        <span className="contact-dinone">Contact Us :</span>
                         <img src={PhoneIcon} alt="#" />
                         <a href="#">987-654-3210</a>
                       </li>
-                      <li className="dinone2">
+                      <li className="dinone">
                         <img alt="#" src={MailIcon} />
                         <a href="#">demo@gmail.com</a>
                       </li>
-                      <li className="dinone3">
+                      <li className="dinone">
                         <img src={LocationIcon} alt="#" />
                         <a href="#">104 New york , USA</a>
                       </li>

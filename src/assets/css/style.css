@@ -288,21 +288,14 @@ body {
      font-weight: 300;
 }
 
-.dinone1 img{
-     margin-right: 15px;
-     margin-left: 15px;
- }
+.dinone img{
+    margin-right: 10px;
+    margin-left: 10px;
+}
 
- .dinone2 img{
-     margin-right: 15px;
- }
-
- .dinone3 img{
-     margin-right: 15px;
-     height: 21px;
-     position: relative;
-     top: -2px;
- }
+.contact-dinone{
+    margin-right: 10px;;
+}
 
  .button_user a {
      float: left;
@@ -951,4 +944,3 @@ body {
      color: #fff;
      font-weight: 500;
 }
- 
